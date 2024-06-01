@@ -33,8 +33,8 @@
   letter-spacing: 0.05em;
   font-weight: 400;
   position: absolute;
-  right: 135px;
-  top: 287px;
+  left: calc(50% - -94px);
+  top: calc(50% - 149px);
   width: 491px;
   height: 397px;
 }
@@ -201,8 +201,8 @@
   width: 380px;
   height: 380px;
   position: absolute;
-  left: 247px;
-  top: 265px;
+  left: calc(50% - 473px);
+  top: calc(50% - 171px);
   object-fit: cover;
 }
 .logo {
